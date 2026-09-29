@@ -24,7 +24,7 @@ print("Name: %s, Age: %d, Score: %.1f" % (name, age, score))
 print("This is line 1\nThis is line 2")
 
 # 7. end 옵션 (기본값은 줄바꿈 '\n')
-print("Hello", end=" ")
+print("Hello!!!!", end=" ")
 print("World!")
 
 # 8. sep 옵션 (기본값은 공백 ' ')
